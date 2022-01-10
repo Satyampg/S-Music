@@ -1,2 +1,2 @@
 # S-Music
-Music boy
+Music bot
